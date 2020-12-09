@@ -6,4 +6,4 @@
 
 ### Stats
 
-[![keke github stats](https://github-readme-stats.vercel.app/api?username=KeKe-Li)](https://github.com/KeKe-Li)
+[![keke github stats](https://github-readme-stats.vercel.app/api?username=KeKe-Li&show_icons=true&theme=dracula)](https://github.com/KeKe-Li)
