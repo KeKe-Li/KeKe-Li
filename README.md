@@ -5,4 +5,3 @@
 * Years of development experience with Go.
 
 * Currently lenarning compiler
-
