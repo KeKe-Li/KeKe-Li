@@ -4,4 +4,4 @@
 
 * Years of development experience with Go.
 
-* Currently lenarning compiler
+* Currently lenarning compiler.
